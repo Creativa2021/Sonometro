@@ -1,6 +1,12 @@
 /*sonómetro LEDs Arduino
 by: Manuel Salinas Porras & José Romero Orellana*/
 
+/*This file is loaded to our Arduino board. 
+
+This code is simple. The Adafruit_NeoPixel library is used and it must be imported previously.
+First the state machine values and variables are initialized. Then, inside the loop, the data from the analog inputs 
+are read and according to their values the state will change. */
+
 #include <Adafruit_NeoPixel.h>    //Import this library
 
 
