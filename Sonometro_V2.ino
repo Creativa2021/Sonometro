@@ -1,3 +1,6 @@
+/*sonómetro LEDs Arduino
+by: Manuel Salinas Porras & José Romero Orellana*/
+
 #include <Adafruit_NeoPixel.h>    //Import this library
 
 
