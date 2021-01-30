@@ -1,4 +1,4 @@
-#include <Adafruit_NeoPixel.h>    // importa libreria (debe instalarla antes)
+#include <Adafruit_NeoPixel.h>    //Import this library
 
 
 //States of machine state
